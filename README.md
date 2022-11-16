@@ -3,4 +3,4 @@
 STACK:
 - JS
 
-### [demo]()
+### [demo](https://okylistik.github.io/JS-tabs)
