@@ -1,3 +1,3 @@
 # tabs simple
 
-### [demo](https://okylistik.github.io/JS-tabs)
+### [demo](https://tonyg89.github.io/JS-tabs)
